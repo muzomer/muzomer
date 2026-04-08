@@ -2,8 +2,6 @@
 
 A generalist software engineer. Open to learn anything that helps me build software things.
 
-A Cloud Backend Engineer by day and a founder at night ..
-
 ### About me
 - 🎯 My goal: build something people love to use everyday.
 - 👣 I'm currently in the journey of making TypeScript and Rust my default languages.
