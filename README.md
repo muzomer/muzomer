@@ -5,7 +5,7 @@ A generalist software engineer. Open to learn anything that helps me build softw
 ### About me
 - 🎯 My goal: build something people love to use everyday.
 - 👣 I'm currently in the journey of making TypeScript and Rust my default languages.
-- 🧰 The tools I love and appreciate: [Neovim](https://neovim.io/), [Jujutsu](https://github.com/jj-vcs/jj), [Ghostty](https://github.com/ghostty-org/ghostty), [Sway](https://swaywm.org/).
+- 🧰 The tools I love and appreciate: [Neovim](https://neovim.io/), [Jujutsu](https://github.com/jj-vcs/jj), [Ghostty](https://github.com/ghostty-org/ghostty), [Sway](https://swaywm.org/), [home-manager](https://nix-community.github.io/home-manager/).
 - 📚 Some books I was glad to read:
   - [Psycho-Cybernetics](https://en.wikipedia.org/wiki/Psycho-Cybernetics)
   - [The One Thing](https://en.wikipedia.org/wiki/The_One_Thing_(book))
