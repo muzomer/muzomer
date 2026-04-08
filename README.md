@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**muzomer/muzomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A generalist software engineer. Open to learn anything that helps me build software things.
 
-Here are some ideas to get you started:
+A Cloud Backend Engineer by day and a founder at night ..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- 🎯 My goal: build something people love to use everyday.
+- 👣 I'm currently in the journey of making TypeScript and Rust my default languages.
+- 🧰 The tools I love and appreciate: [Neovim](https://neovim.io/), [Jujutsu](https://github.com/jj-vcs/jj), [Ghostty](https://github.com/ghostty-org/ghostty), [Sway](https://swaywm.org/).
+- 📚 Some books I was glad to read:
+  - [Psycho-Cybernetics](https://en.wikipedia.org/wiki/Psycho-Cybernetics)
+  - [The One Thing](https://en.wikipedia.org/wiki/The_One_Thing_(book))
+  - [The E-Myth](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)
+  - [Let Them Theory](https://www.amazon.com/Let-Them-Theory-Life-Changing-Millions/dp/1401971369)
