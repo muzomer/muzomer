@@ -3,7 +3,7 @@
 I'm a generalist software engineer. Open to learn anything that helps me build software things.
 
 ### About me
-- 🎯 My goal: build something people love to use everyday.
+- 🎯 My goal: build something people are happy to use everyday.
 - 👣 I'm in the journey to make TypeScript and Rust my default languages.
 - 🧰 The tools I love and appreciate: [Neovim](https://neovim.io/), [Jujutsu](https://github.com/jj-vcs/jj), [Ghostty](https://github.com/ghostty-org/ghostty), [Sway](https://swaywm.org/), [home-manager](https://nix-community.github.io/home-manager/).
 - 📚 Some books I enjoyed:
