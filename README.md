@@ -2,6 +2,8 @@
 
 I'm a generalist software engineer. Open to learn anything that helps me build things.
 
+In my free time I build [E-clair app](https://www.e-clair.app/) to make podcasts more enjoyable for language learners.
+
 ### About me
 - 🎯 My goal: build something people are happy to use everyday.
 - 👣 I'm in the journey to make TypeScript and Rust my default languages.
