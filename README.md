@@ -8,14 +8,15 @@ In my free time I build [E-clair app](https://www.e-clair.app/) to make podcasts
 - 🎯 My goal: build something people are happy to use everyday.
 - 👣 I'm in the journey to make TypeScript and Rust my default languages.
 - 🧰 The tools I use, love, and appreciate:
-    - [Neovim](https://neovim.io/)
-    - [Jujutsu](https://github.com/jj-vcs/jj)
-    - [Jujutsu UI](https://github.com/idursun/jjui)
-    - [Hunk](https://github.com/modem-dev/hunk)
-    - [Kitty](https://sw.kovidgoyal.net/kitty/)
-    - [Sway](https://swaywm.org/)
     - [Herdr](https://herdr.dev/)
+    - [Hunk](https://github.com/modem-dev/hunk)
+    - [Jujutsu UI](https://github.com/idursun/jjui)
+    - [Jujutsu](https://github.com/jj-vcs/jj)
+    - [Kitty](https://sw.kovidgoyal.net/kitty/)
+    - [Neovim](https://neovim.io/)
     - [Nix home-manager](https://nix-community.github.io/home-manager/)
+    - [Stow](http://www.gnu.org/software/stow/)
+    - [Sway](https://swaywm.org/)
 - 📚 Some books I enjoyed:
   - [Psycho-Cybernetics](https://en.wikipedia.org/wiki/Psycho-Cybernetics)
   - [The One Thing](https://en.wikipedia.org/wiki/The_One_Thing_(book))
