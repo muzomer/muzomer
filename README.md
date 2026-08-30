@@ -6,7 +6,7 @@ In my free time I build [E-clair app](https://www.e-clair.app/) to make podcasts
 
 ### About me
 - 🎯 My goal: build something people are happy to use everyday.
-- 👣 I'm in the journey to make TypeScript and Rust my default languages.
+- 👣 I'm in the journey of making TypeScript and Rust my default languages.
 - 🧰 The tools I use, love, and appreciate:
     - [Herdr](https://herdr.dev/)
     - [Hunk](https://github.com/modem-dev/hunk)
